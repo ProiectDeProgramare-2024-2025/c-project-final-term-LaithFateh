@@ -3,8 +3,5 @@
 20 7 2025 16 45 Gym session
 22 7 2025 11 15 Lunch with friends
 25 7 2025 8 0 staying at something
-15 7 2025 7 30 Sleep all day long 
-12 8 32767 12 0 1111
-12 12 2000 12 45 hi hello 
-11 11 1111 12 12 hi how are ya
-12 11 2000 4 43 yaay 
+
+
